@@ -1,0 +1,7 @@
+Projet effectuer en bts ciel 2eme année.
+nous devron faire une serre connecter et automatiser 
+malheuresement la partie automatiser na pas pu etre réaliser due a plusieur probleme externe 
+se projet est originalement prevu pour une raspberry pi 4B 
+avec 2 capteur et une pompe : 
+le 1er capteur etant le dht11 grove (humiditer et temperature de l'air)
+le 2eme etant un capteur d'humiditer de la terre et temperature de la terre
